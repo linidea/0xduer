@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Lin Gui.
+- 📒 个人博客: https://0xduer.github.io
+- 🌱 AMIS 低代码平台: https://0xduer.github.io/amis-admin-pro
 
 <!--
 **0xduer/0xduer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
